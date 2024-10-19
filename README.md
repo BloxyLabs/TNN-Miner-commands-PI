@@ -9,9 +9,44 @@ If you had fun with the projects, please consider giving us a Super Thanks on Yo
 **Command to change password:**
 
 ```
-<p>passwd</p>
+passwd
 ```
 
 **Command to update the OS:**
 
-<p>sudo apt update</p>
+```
+sudo apt update
+```
+
+**Command to upgrade the OS:**
+
+```
+sudo apt upgrate
+```
+
+**Command to install wget:**
+
+```
+sudo apt install wget
+```
+
+**Command to download the TNN Miner file from GitLab:**
+
+```
+wget https://gitlab.com/Tritonn204/tnn-miner/-/releases/0.4.3-r2/downloads/Tnn-miner-arm64-0.4.3-r2.tar.gz
+```
+Always check the gitlab if there are newer versions.
+
+**Command to upgrade the OS:**
+
+```
+sudo apt update
+```
+
+
+**Command to upgrade the OS:**
+
+```
+sudo apt update
+```
+
