@@ -8,7 +8,9 @@ If you had fun with the projects, please consider giving us a Super Thanks on Yo
 
 **Command to change password:**
 
+```
 <p>passwd</p>
+```
 
 **Command to update the OS:**
 
