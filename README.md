@@ -21,7 +21,7 @@ sudo apt update
 **Command to upgrade the OS:**
 
 ```
-sudo apt upgrate
+sudo apt upgrade
 ```
 
 **Command to install wget:**
