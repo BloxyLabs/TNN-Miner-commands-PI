@@ -33,7 +33,7 @@ sudo apt install wget
 **Command to download the TNN Miner file from GitLab:**
 
 ```
-wget https://gitlab.com/Tritonn204/tnn-miner/-/releases/0.4.3-r2/downloads/Tnn-miner-arm64-v0.5.2.tar.gz
+wget https://gitlab.com/Tritonn204/tnn-miner/-/releases/v0.5.2/downloads/Tnn-miner-arm64-v0.5.2.tar.gz
 ```
 Always check the gitlab if there are newer versions.
 
