@@ -64,7 +64,7 @@ Type ctrl-a and d to detach from a screen session and use the command screen-r t
 **Command to start the miner to mine DERO:**
 
 ```
-./tnn-miner-cpu --daemon-address POOLADDRESS --port PORTNUMBER --wallet WALLETADDRESS.WORKERNAME --threads 4 --dero
+./tnn-miner-cpu --daemon-address POOLADDRESS --port PORTNUMBER --wallet WALLETADDRESS.WORKERNAME --threads 4
 ```
 
 
