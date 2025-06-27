@@ -33,7 +33,7 @@ sudo apt install wget
 **Command to download the TNN Miner file from GitLab:**
 
 ```
-wget https://gitlab.com/Tritonn204/tnn-miner/-/releases/0.4.3-r2/downloads/Tnn-miner-arm64-0.4.6-r3.tar.gz
+wget https://gitlab.com/Tritonn204/tnn-miner/-/releases/0.4.3-r2/downloads/Tnn-miner-arm64-v0.5.2.tar.gz
 ```
 Always check the gitlab if there are newer versions.
 
@@ -44,7 +44,7 @@ tar -xvzf FILENAME.tar.gz
 ```
 Command from the video:
 ```
-tar -xvzf Tnn-miner-arm64-0.4.6-r3.tar.gz
+tar -xvzf Tnn-miner-arm64-v0.5.2.tar.gz
 ```
 **Commands to install screen and start a screen session:**
 
